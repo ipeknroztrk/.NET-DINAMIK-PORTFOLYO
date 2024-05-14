@@ -34,17 +34,17 @@ Projeyle ilgili geri bildirimlerinizi ve katkılarınızı bekliyoruz. Her türl
 
 
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_37_18](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/96508f98-223e-4b68-b03e-8cb6ff6b31f8)
- Google Chrome 14 05 2024 15_36_27](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/b2795a33-aa8e-44a6-900d-8b3cbef6269b)
+
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_27](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/b2795a33-aa8e-44a6-900d-8b3cbef6269b)
 
 
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_37_53](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/41e5a3dc-7970-4e0e-b14b-a98d31a7b097)
 1bfa)
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_37_42](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/120fbc19-0dae-4158-a5a4-6122359d1951)
-![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Ch
+
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_39_18](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/920ded73-17e0-40c1-9016-deaa297aec7c)
 
-rome 14 05 2024 15_37_42](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/120fbc19-0dae-4158-a5a4-6122359d1951)
+
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_39_03](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/d954b36c-c9c9-4f1a-b7fe-f878f078f9fc)
 
 
