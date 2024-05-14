@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+
+
+@Html.Action("DefaultFeaturePartial")
+
+@Html.Action("DefaultAboutPartial")
+
+@Html.Action("DefaultServicePartial")
+
+@Html.Action("DefaultSkillPartial")
+
+@Html.Action("DefaultProjectPartial")
+
+@Html.Action("DefaultTestimonialPartial")
+
+@Html.Action("DefaultHireMePartial")
+
+<!-- Contact Section -->
+<section id="contact" class="position-relative section">
+    <div class="container text-center">
+        <h6 class="subtitle">İletişim</h6>
+        <h6 class="section-title mb-4">Benimle İletişime Geçebilirsiniz.</h6>
+        <p class="mb-5 pb-4">Aklınıza takılan her türlü soru ve proje çalışmaları için benimle iletişime geçebilirsiniz.</p>
+
+        <div class="contact text-left">
+            @Html.Action("SendMessage")
+
+            @Html.Action("DefaultContactPartial")
+</section>
+<!-- End of Contact Section -->
+</body>
+</html>

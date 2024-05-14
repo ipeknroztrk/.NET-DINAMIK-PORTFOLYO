@@ -1,0 +1,17 @@
+﻿@model StellerAcunMedyaPortfolio.Models.TblService
+@{
+    ViewBag.Title = "AddService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Hizmet Ekleme Sayfası</h2>
+
+<form method="post">
+    <label>Hizmet Adı</label>
+    @Html.TextBoxFor(x => x.ServiceName, new { @class = "form-control" })
+    <br />
+    <label>Hizmet İkonu</label>
+    @Html.TextBoxFor(x => x.ServiceIconUrl, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-danger">Yeni Hizmet Ekle</button>
+</form>
