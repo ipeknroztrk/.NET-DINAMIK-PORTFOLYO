@@ -25,9 +25,9 @@ Bu projede sürekli olarak yeni özellikler eklenmekte ve gelişmeler kaydedilme
 
 Destek ve Katkı
 Projeyle ilgili geri bildirimlerinizi ve katkılarınızı bekliyoruz. Her türlü soru, öneri veya geri bildirim için lütfen iletişime geçmekten çekinmeyin.
+
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_32_38](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/88fa4643-3447-48d6-9415-46e37bf48578)
-![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_32_38](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/88fa4643-3447-48d6-9415-46e37bf48578)
-![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_06](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/28017f60-64bd-451a-b16b-ae36826e1287)
+
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_06](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/28017f60-64bd-451a-b16b-ae36826e1287)
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_15](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/d92cf9cb-e4d6-4c0d-a12f-402647c81bfa)
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_15](https://github.com/ipeknroztrk/.NET-DINAMIK
