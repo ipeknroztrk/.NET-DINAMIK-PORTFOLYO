@@ -57,6 +57,4 @@ Projeyle ilgili geri bildirimlerinizi ve katkılarınızı bekliyoruz. Her türl
 
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_38_03](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/9fe16dac-9353-4133-a254-863d37d935c1)
 
-<img width="703" alt="Ekran Resmi 2024-05-19 19 52 36" src="https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/ea1914a3-051d-4916-9177-01062dff7c42">
-
 
