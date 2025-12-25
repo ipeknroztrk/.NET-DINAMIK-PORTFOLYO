@@ -1,31 +1,67 @@
-.NET İLE DİNAMİK PORTFOLYO SİTESİ
-Bu proje, web uygulamaları geliştirmek için ASP.Net MVC framework'ünü kullanır ve ayrıca Entity Framework Db First yaklaşımını benimser. Aşağıda projede ele alınan önemli konular ve yapılar bulunmaktadır:
+🌐 .NET ile Dinamik Portfolyo Sitesi
+🧠 Kullanılan Teknolojiler
 
-Önemli Konular ve Yapılar:
-1. ASP.Net MVC
-ASP.Net MVC, web uygulamaları geliştirmek için kullanılan bir framework'tür. Bu projede, ASP.Net MVC'nin temel prensipleri üzerinde durulmuştur.
+ASP.NET MVC 5
 
-2. Entity Framework Db First Yapısı
-Entity Framework, veritabanı ve uygulama modelini senkronize eden bir yaklaşımdır. Bu projede, Entity Framework Db First yaklaşımını kullanarak veritabanı işlemleri yönetilmiştir.
+Entity Framework – DB First
 
-3. Model, View, Controller Yapısı
-MVC mimarisinin temel bileşenleri olan Model, View ve Controller yapıları bu projede kullanılmıştır. Bu yapılar, uygulamanın mantıksal ve görsel katmanlarını birbirinden ayırarak geliştirmeyi kolaylaştırır.
+MSSQL
 
-4. LINQ Sorguları
-LINQ (Language Integrated Query), veritabanı sorgularını kolayca yazmamızı sağlayan bir dil ve araç setidir. Bu projede, LINQ sorguları kullanılarak veritabanı işlemleri gerçekleştirilmiştir.
+LINQ
 
-5. CRUD İşlemleri
-CRUD (Create, Read, Update, Delete) işlemleri, veritabanındaki verileri oluşturma, okuma, güncelleme ve silme işlemlerini ifade eder. Bu projede, temel CRUD işlemleri uygulanmıştır.
+Repository Pattern
 
-6. Login İşlemi
-Kullanıcıların kimlik doğrulaması ve yetkilendirme sistemi, güvenli bir web uygulaması için önemlidir. Bu projede, kullanıcıların giriş yapabilmesi için bir login işlemi sağlanmıştır.
+Bootstrap 4 (Responsive UI)
 
-Gelişmeler ve İlerleme
-Bu projede sürekli olarak yeni özellikler eklenmekte ve gelişmeler kaydedilmektedir. Yenilikçi projelerimiz ve öğrenme süreçlerimizdeki ilerlemeleri sizlerle paylaşmaya devam edeceğiz.
+HTML / CSS / JavaScript
 
-Destek ve Katkı
-Projeyle ilgili geri bildirimlerinizi ve katkılarınızı bekliyoruz. Her türlü soru, öneri veya geri bildirim için lütfen iletişime geçmekten çekinmeyin.
+Authentication (Login İşlemleri)
 
+📌 Proje Hakkında
+
+Bu proje, ASP.NET MVC Framework kullanılarak geliştirilen dinamik bir portfolyo web uygulamasıdır.
+Veritabanı işlemleri için Entity Framework DB First yaklaşımı kullanılmıştır. Sistem; içerik yönetimi, CRUD işlemleri ve kullanıcı girişi gibi özellikler içermektedir.
+
+🚀 Öne Çıkan Yapılar
+✔️ MVC Mimarisi
+
+Model — View — Controller katmanları kullanılarak temiz ve sürdürülebilir bir yapı oluşturuldu.
+
+✔️ Entity Framework – DB First
+
+Mevcut veritabanı şemasından otomatik model üretildi.
+
+Veritabanı ile uygulama arasında güçlü bağlantı sağlandı.
+
+✔️ LINQ ile Sorgular
+
+Veritabanı işlemleri tip güvenli ve performanslı şekilde LINQ ile yazıldı.
+
+✔️ CRUD İşlemleri
+
+Sistemde aşağıdaki işlemler yapılabilmektedir:
+
+Oluşturma
+
+Listeleme
+
+Güncelleme
+
+Silme
+
+✔️ Login & Yetkilendirme
+
+Kullanıcı girişi
+
+Yetkili kullanıcılara yönetim paneli erişimi
+
+🖥 Arayüz Özellikleri
+
+Bootstrap ile modern ve responsive tasarım
+
+Dinamik içerik alanları
+
+Portfolyo odaklı sade UI
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_32_38](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/88fa4643-3447-48d6-9415-46e37bf48578)
 
 ![Steller Landing page _ Free Bootstrap 4 1 landing page - Google Chrome 14 05 2024 15_36_06](https://github.com/ipeknroztrk/.NET-DINAMIK-PORTFOLYO/assets/114228895/28017f60-64bd-451a-b16b-ae36826e1287)
